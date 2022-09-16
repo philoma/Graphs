@@ -1,4 +1,4 @@
-//kahn's algo
+//kahn's algo, topological sort using BFS
 #include<bits/stdc++.h>
 vector<int> topologicalSort(vector<vector<int>> &edges, int v, int e)  {
     // Write your code here
